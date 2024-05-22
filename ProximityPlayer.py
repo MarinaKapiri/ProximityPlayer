@@ -42,7 +42,7 @@ class Proximity1:
 
     def getPlayerName(self):
         # Return the names of the players in the group
-        return "Kapiri_Dana_Christodoulidou"
+        return "Marina"
 
     def findNeighbours(self, CellList):
         # Update the owner of neighboring cells if they are empty
